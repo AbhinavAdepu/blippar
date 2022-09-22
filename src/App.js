@@ -26,8 +26,8 @@ const App = () => {
 
   return (
     <>
-    <h1 className="mt-12" className="text-header">Coding Assignment : BlippAR</h1>
-    <h6 className="mt-12" className="text-header">(Applied Debounce 500ms)</h6>
+    <h1 className="mt-12" className="text-header">Coding Assignment : BlippAR(Abhinav Adepu)</h1>
+  <h6 className="mt-12" className="text-header">(Applied Debounce 500ms)</h6>
     <div className="parent-container">
       <div className="container">
       <h3 className="mt-12">Search Below</h3>
