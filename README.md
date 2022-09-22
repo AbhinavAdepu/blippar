@@ -10,32 +10,34 @@ It should clear the matching words list if the user clears the input box or the 
 2nd problem:
 Highlight the matching portion of the word with any color.
 
-```
-## Cloning git project
 
+# Cloning git project
+
+```
 git clone https://github.com/AbhinavAdepu/blippar.git
 
 cd blippar
 
 ```
 
-```
+
 # project install
 
+```
 npm i
 ```
 
-```
-# project start
 
+# project start
+```
 npm start
 
 ```
 
 
-```
-# project Run
 
+# project Run
+```
 localhost:3000
 
 ```
